@@ -116,6 +116,52 @@ class Program
 
     static void TriangleTypeIdentifier()
     {
+        Console.WriteLine("Enter the lengths of the three sides of the triangle:");
+        double side1, side2, side3;
+
+        Console.Write("Side 1: ");
+        if (!double.TryParse(Console.ReadLine(),out side1))
+        {
+            Console.WriteLine("Invalid input. Please enter a number.");
+            return;
+        }
+
+        Console.Write("Side 2: ");
+        if (!double.TryParse(Console.ReadLine(), out side2))
+        {
+            Console.WriteLine("Invalid input. Please enter a number.");
+            return;
+        }
+
+        Console.Write("Side 3: ");
+        if (!double.TryParse(Console.ReadLine(), out side3))
+        {
+            Console.WriteLine("Invalid input. Please enter a number.");
+            return;
+        }
+
+        if (side1 <= 0 || side2 <= 0 || side3 <= 0)
+        {
+            Console.WriteLine("Sides must be positive numbers.");
+            return;
+        }
+
+        if ((side1 + side2 > side3) &&
+            (side1 + side3 > side2) &&
+            (side2 + side3 > side1))
+        {
+            if (side1 == side2 && side2 == side3)
+                Console.WriteLine("Triangle Type: Equilateral");
+            else if (side1 == side2 || side1 == side3 || side2 == side3)
+                Console.WriteLine("Triangle Type: Isosceles");
+            else
+                Console.WriteLine("Triangle Type: Scalene");
+        }
+
+        else
+        {
+            Console.WriteLine("The values entered do not form a valid triangle.");
+        }
 
     }
 }
