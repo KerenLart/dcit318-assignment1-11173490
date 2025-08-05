@@ -1,0 +1,15 @@
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment1-11173490\DCIT318Assignment1\bin\Debug\net7.0\DCIT318Assignment1.exe
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment1-11173490\DCIT318Assignment1\bin\Debug\net7.0\DCIT318Assignment1.deps.json
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment1-11173490\DCIT318Assignment1\bin\Debug\net7.0\DCIT318Assignment1.runtimeconfig.json
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment1-11173490\DCIT318Assignment1\bin\Debug\net7.0\DCIT318Assignment1.dll
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment1-11173490\DCIT318Assignment1\bin\Debug\net7.0\DCIT318Assignment1.pdb
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment1-11173490\DCIT318Assignment1\obj\Debug\net7.0\DCIT318Assignment1.csproj.AssemblyReference.cache
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment1-11173490\DCIT318Assignment1\obj\Debug\net7.0\DCIT318Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment1-11173490\DCIT318Assignment1\obj\Debug\net7.0\DCIT318Assignment1.AssemblyInfoInputs.cache
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment1-11173490\DCIT318Assignment1\obj\Debug\net7.0\DCIT318Assignment1.AssemblyInfo.cs
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment1-11173490\DCIT318Assignment1\obj\Debug\net7.0\DCIT318Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment1-11173490\DCIT318Assignment1\obj\Debug\net7.0\DCIT318Assignment1.dll
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment1-11173490\DCIT318Assignment1\obj\Debug\net7.0\refint\DCIT318Assignment1.dll
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment1-11173490\DCIT318Assignment1\obj\Debug\net7.0\DCIT318Assignment1.pdb
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment1-11173490\DCIT318Assignment1\obj\Debug\net7.0\DCIT318Assignment1.genruntimeconfig.cache
+C:\Users\larte\Desktop\UG\300\SECOND SEM\DCIT 318\dcit318-assignment1-11173490\DCIT318Assignment1\obj\Debug\net7.0\ref\DCIT318Assignment1.dll
