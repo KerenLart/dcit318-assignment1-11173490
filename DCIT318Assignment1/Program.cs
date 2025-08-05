@@ -102,7 +102,16 @@ class Program
 
     static void TicketPriceCalculator()
     {
-
+        Console.Write("Enter your age:");
+        if (int.TryParse(Console.ReadLine(), out int age))
+        {
+            if (age <= 12 || age >= 65)
+                Console.WriteLine("Ticket price: GHC 7");
+            else
+                Console.WriteLine("Ticket price: GHC 10");
+        }
+        else 
+            Console.WriteLine("Invalid input. Please enter a valid age. \n");
     }
 
     static void TriangleTypeIdentifier()
